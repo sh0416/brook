@@ -7,6 +7,8 @@ Submodules
 brook.models module
 -------------------
 
+.. autofunction:: brook.models.func1
+    
 .. automodule:: brook.models
     :members:
     :undoc-members:
