@@ -13,3 +13,5 @@ def masked_softmax(vec, mask, dim=1):
 
 def print_hi() -> None:
     print("hi")
+
+x = torch.tensor([1.])
