@@ -11,7 +11,7 @@ def masked_softmax(vec, mask, dim=1):
     return masked_exps/masked_sums
 
 
-def print_hi() -> None:
+def print_hi():
     print("hi")
 
 x = torch.tensor([1.])

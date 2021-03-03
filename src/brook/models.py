@@ -1,13 +1,19 @@
-"""Machine Learning Models"""
+import torch
+
 
 def func1(a, b):
-    """func1
-
-    :param a: argument1
-    :type a: int
-    :param b: argument2
-    :type b: int
-    :rtype: int
-    """
     return a + b
 
+
+def func2(a, b, c):
+    return a + b + c
+
+
+def is_this_really():
+    return True
+
+
+def what_is_the_problem():
+    return False
+
+x = 1
